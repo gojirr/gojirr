@@ -1,4 +1,3 @@
-<img width="2458" height="1513" alt="image" src="https://github.com/user-attachments/assets/2b0725de-3ba5-49b0-aa16-129329b65ffc" />
 <p align="center">
   <a href="https://x.com/bl00dyhandz_">twitter</a>
   <a href="https://nirrlll.straw.page/">straw.page</a>

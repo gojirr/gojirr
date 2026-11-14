@@ -1,5 +1,5 @@
 <p align="center">
-  read byi⠀    -18 users iwec PLEASE
+  read byi⠀  ⌖   -18 users iwec PLEASE
 <p align="center">
   <a href="https://x.com/bl00dyhandz_">twitter</a>
   <a href="https://nirrlll.straw.page/">straw.page</a>

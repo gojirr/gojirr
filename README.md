@@ -8,8 +8,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqefquel2atigjgrzp6vzsiit4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2bff00&bar_color_cover=false">
   </a>
   <p align="center">
-
-</p>
+⠀ ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>
 <p align="center">
 <p align="center">
 <img width="2458" height="1513" alt="roryfat" src="https://i.imgur.com/2TdS5ws.png" /> 

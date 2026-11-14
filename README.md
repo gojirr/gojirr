@@ -2,12 +2,15 @@
 <p align="center">
   <a href="https://x.com/bl00dyhandz_">twitter</a>
   <a href="https://nirrlll.straw.page/">straw.page</a>
-  <a href="https://pronouns.cc/@gojirr">prns.cc</a>
+  <a href="https://pronouns.cc/@gojirr">prns</a>
 </p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqefquel2atigjgrzp6vzsiit4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqefquel2atigjgrzp6vzsiit4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2bff00&bar_color_cover=false">
   </a>
 </p>
+<p align="center">
+<img width="4096" height="2521" alt="roryfat" src="https://images-ext-1.discordapp.net/external/GGdH2Tqx_DxkaSVx0MHMjdTozLzqr2ctlGNLZxDrrHs/https/i.imgur.com/9zg6AK5.jpg?format=webp&width=1024&height=630" /> 
+
 <!--
 **gojirr/gojirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

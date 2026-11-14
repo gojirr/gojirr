@@ -11,8 +11,8 @@
 
 </p>
 <p align="center">
-<img width="737" height="454" alt="roryfat" src="<img width="737"https://i.imgur.com/2TdS5ws.png" />
-" /> 
+<p align="center">
+<img width="2458" height="1513" alt="roryfat" src="https://i.imgur.com/2TdS5ws.png" /> 
 
 
 <!--
